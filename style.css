@@ -1,53 +1,32 @@
-<html>
-  <title>anish
-  </title>
-  <head>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
-  </head>
-  <body>
-    <h1>About me
-    </h1> 
-    <p>my name is Anish and in study in grade 9. I am 14 years old. I go to world one school and I live in India.I love playing basketball with my friends.
-    I love hanging out with my friends they are the best people i have known. this is the first time i am coding a website and i am very joyful about it I intrested to learn further into the feild of coding.
-    </p>
-    <h4 class="text-family">i use
-      <a href="https://www.w3schools.com/#gsc.tab=0>"target="_blank">"w3schools 
-      </a>
-      for basic knowdge  of coding</h4>
-    <h4 class="text-family">i am also using 
-      <a href="https://codepen.io/"target="_blank">
-      codepen.io
-      </a> for coding this website
-    </h4>
-    <table>
-      <tr>
-        <td>
-        name
-        </td>
-        <td>
-          Anish
-        </td>
-      </tr>
-      <tr>
-        <td>
-        location  
-        </td>
-        <td>
-          hyderabad
-        </td>
-      </tr>
-    </table>
-    <div>
-      <h1>hobies</h1>
-      <ul>
-        <li>basketball
-        </li>
-        <li>skating
-        </li>
-        <Li>hanging out with friends
-        </li>
-      </ul>
-    </div> 
-  </body>
-</html>
+p {
+    color:whitesmoke;
+    font-family:'Italianno';
+    font-size:x-large
+}
+body{
+    background-color:black
+}
+h4{
+    color:rgb(220, 218, 218)
+
+}
+ul{
+    color:rgb(78, 226, 33)
+
+}
+h1{
+    color:rgb(245, 245, 245)
+}
+a{
+    color:rgb(245, 245, 245)
+}
+.text-family {
+    color:white
+}
+table {
+    color: white;
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+
