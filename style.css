@@ -15,7 +15,7 @@ ul{
 
 }
 h1{
-    color:rgb(245, 245, 245)
+    color:white
 }
 a{
     color:rgb(245, 245, 245)
@@ -26,7 +26,20 @@ a{
 table {
     color: white;
     border: 1px solid white;
-    border-collapse: collapse;
+    border-collapse: separate;
 }
-
-
+td{
+    color: rgb(255, 212, 212);
+    border: 1px solid white;
+    border-collapse: separate; 
+}
+#hobbies:hover{
+border: 1px solid white;
+}
+table{
+    font-family:'Italianno'; 
+    color:aqua
+}
+h4,p,table{
+  text-shadow: 4px 4px 16px rgba(165,42,42)
+}
